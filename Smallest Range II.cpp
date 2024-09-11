@@ -43,7 +43,7 @@ Explanation: Change nums to be [4, 6, 3]. The score is max(nums) - min(nums) = 6
 
 
 
-lass Solution {
+class Solution {
 public:
     int smallestRangeII(vector<int>& nums, int k) {
       int n = nums.size();
